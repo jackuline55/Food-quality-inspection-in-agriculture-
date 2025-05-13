@@ -1,6 +1,5 @@
 # Food-quality-inspection-in-agriculture-
 
-# **food-quality-inspection-in-agriculture**
 
 # **PURPOSE:-**
 

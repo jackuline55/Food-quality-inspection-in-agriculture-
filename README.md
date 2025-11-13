@@ -39,7 +39,7 @@ ROTTEN
 
 
 
-
+[j!O>6`|zp\Y
 # **Conclusion:**
 
 This code demonstrates a simple yet effective approach to classify strawberry quality using color-based image processing techniques. By leveraging OpenCV and NumPy, it identifies fresh and defective regions, enabling automated fruit inspection that can be useful in agriculture, packaging, and retail industries.
